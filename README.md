@@ -1,4 +1,4 @@
-### Olá Eu Sou o Higor Matheus! 👋
+### Olá, Eu Sou o Higor Matheus! 👋
 
 ![Higas01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Higas01&show_icons=true&theme=dracula)
 
