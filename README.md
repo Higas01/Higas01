@@ -1,13 +1,13 @@
 ### Desenvolvedor Full-Stack 
 
-#### Front-end
+#### Front-end:
 * HTML
 * CSS
 * JavaScript
 * ReactJS
 * TypeScript
 
-#### Back-end
+#### Back-end:
 * NodeJS
 * NestJS
 * MongoDB
