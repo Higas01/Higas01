@@ -13,7 +13,7 @@
 * SQL
 * MySQL
 * MongoDB
-* Prisma
+* ORM (Prisma, Sequelize, TypeORM)
 
 
 
