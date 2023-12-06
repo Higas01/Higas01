@@ -10,7 +10,8 @@
 #### Back-end:
 * NodeJS
 * NestJS
-* SQL
+* C#
+* .NET
 * MySQL
 * MongoDB
 * ORM (Prisma, Sequelize, TypeORM)
