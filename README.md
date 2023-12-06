@@ -4,12 +4,12 @@
 * HTML
 * CSS
 * JavaScript
-* ReactJS
+* React
 * TypeScript
 
 #### Back-end:
 * NodeJS
-* NestJS
+* Nest
 * C#
 * .NET
 * MySQL
